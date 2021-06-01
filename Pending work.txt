@@ -8,3 +8,5 @@ How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras
 Dropout Regularization in Deep Learning Models With Keras
 Display Deep Learning Model Training History in Keras
 Multi-Class Classification Tutorial with the Keras Deep Learning Library
+Early Stopping
+Callback Functions
